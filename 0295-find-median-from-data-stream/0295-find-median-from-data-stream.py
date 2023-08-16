@@ -1,33 +1,31 @@
 class MedianFinder:
-
+    
     def __init__(self):
-        self.small, self.large = [], []
+        self.s, self.l = [], []    
 
     def addNum(self, num: int) -> None:
-        if self.large and num > self.large[0]:
-            heapq.heappush(self.large, num)
+        if self.l and num > self.l[0]:
+            heapq.heappush(self.l, num)
         else:
-            heapq.heappush(self.small, -1 * num)
-
-        if len(self.small) > len(self.large) + 1:
-            val = heapq.heappop(self.small) * -1
-            heapq.heappush(self.large, val)
-        if len(self.large) > len(self.small) + 1:
-            val = heapq.heappop(self.large) * -1
-            heapq.heappush(self.small, val) 
-                
-
-    def findMedian(self) -> float:
-        if len(self.small) > len(self.large):
-            return self.small[0] * -1
-        elif len(self.small) < len(self.large):
-            return self.large[0]
-        else:
-            return (-1 * self.small[0] + self.large[0]) / 2
-
-
+            heapq.heappush(self.s, num * -1)
+        if len(self.s) < len(self.l)+1:
+            val = heapq.heappop(self.l)
+            heapq.heappush(self.s, val * -1)
+        if len(self.s) > len(self.l)+1:
+            val = heapq.heappop(self.s)
+            heapq.heappush(self.l, val * -1)
 
         
+
+    def findMedian(self) -> float:
+        if len(self.s) > len(self.l):
+            return self.s[0] * -1
+        elif len(self.s) < len(self.l):
+            return self.l[0] 
+        else:
+            return ((self.s[0] * -1) + self.l[0])/2
+
+
         
 
 
