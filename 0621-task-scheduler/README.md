@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/task-scheduler/">621. Task Scheduler</a></h2><h3>Medium</h3><hr><div><p>You are given an array of CPU <code>tasks</code>, each represented by letters&nbsp;A&nbsp;to Z, and a cooling time, <code>n</code>. Each cycle or interval allows the completion of one task. Tasks can be completed in any order, but there's a constraint: <strong>identical</strong> tasks must be separated by at least <code>n</code> intervals due to cooling time.</p>
+<h2><a href="https://leetcode.com/problems/task-scheduler/">621. Task Scheduler</a></h2><h3>Medium</h3><hr><p>You are given an array of CPU <code>tasks</code>, each represented by letters&nbsp;A&nbsp;to Z, and a cooling time, <code>n</code>. Each cycle or interval allows the completion of one task. Tasks can be completed in any order, but there&#39;s a constraint: <strong>identical</strong> tasks must be separated by at least <code>n</code> intervals due to cooling time.</p>
 
 <p>​Return the <em>minimum number of intervals</em> required to complete all tasks.</p>
 
@@ -18,7 +18,7 @@
 <p><strong>Input:</strong> <span class="example-io" style="
     font-family: Menlo,sans-serif;
     font-size: 0.85rem;
-">tasks = ["A","A","A","B","B","B"], n = 2</span></p>
+">tasks = [&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;B&quot;,&quot;B&quot;,&quot;B&quot;], n = 2</span></p>
 
 <p><strong>Output:</strong> <span class="example-io" style="
 font-family: Menlo,sans-serif;
@@ -45,7 +45,7 @@ font-size: 0.85rem;
 <p><strong>Input:</strong> <span class="example-io" style="
     font-family: Menlo,sans-serif;
     font-size: 0.85rem;
-">tasks = ["A","C","A","B","D","B"], n = 1</span></p>
+">tasks = [&quot;A&quot;,&quot;C&quot;,&quot;A&quot;,&quot;B&quot;,&quot;D&quot;,&quot;B&quot;], n = 1</span></p>
 
 <p><strong>Output:</strong> <span class="example-io" style="
     font-family: Menlo,sans-serif;
@@ -72,7 +72,7 @@ font-size: 0.85rem;
 <p><strong>Input:</strong> <span class="example-io" style="
     font-family: Menlo,sans-serif;
     font-size: 0.85rem;
-">tasks = ["A","A","A", "B","B","B"], n = 3</span></p>
+">tasks = [&quot;A&quot;,&quot;A&quot;,&quot;A&quot;, &quot;B&quot;,&quot;B&quot;,&quot;B&quot;], n = 3</span></p>
 
 <p><strong>Output:</strong> <span class="example-io" style="
     font-family: Menlo,sans-serif;
@@ -92,4 +92,3 @@ font-size: 0.85rem;
 	<li><code>tasks[i]</code> is an uppercase English letter.</li>
 	<li><code>0 &lt;= n &lt;= 100</code></li>
 </ul>
-</div>
