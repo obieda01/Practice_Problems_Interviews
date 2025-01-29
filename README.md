@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
