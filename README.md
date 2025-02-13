@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -106,10 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
