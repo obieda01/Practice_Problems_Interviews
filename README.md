@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
+| [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,4 +120,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
