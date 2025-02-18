@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
