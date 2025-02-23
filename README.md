@@ -48,10 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 ## Bucket Sort
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
 ## Design
@@ -144,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0155-min-stack) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
