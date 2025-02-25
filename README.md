@@ -125,12 +125,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
+| [0838-design-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0838-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
+| [0838-design-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
