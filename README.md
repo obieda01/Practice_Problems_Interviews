@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -88,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -153,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
