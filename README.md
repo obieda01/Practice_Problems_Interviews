@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
+| [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
+| [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
