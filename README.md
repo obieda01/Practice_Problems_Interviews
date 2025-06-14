@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Tree
 |  |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
+| [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
 |  |
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0011-container-with-most-water) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
