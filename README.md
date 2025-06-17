@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -194,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
