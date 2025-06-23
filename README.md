@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
+| [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
@@ -108,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,5 +214,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
