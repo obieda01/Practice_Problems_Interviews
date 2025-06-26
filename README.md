@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 | [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0792-binary-search) |
+| [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
+| [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0242-valid-anagram) |
+| [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
+| [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Tree
 |  |
 | ------- |
