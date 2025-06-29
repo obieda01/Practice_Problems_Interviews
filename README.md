@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
