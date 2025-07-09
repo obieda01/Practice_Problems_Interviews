@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0125-valid-palindrome) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0155-min-stack) |
 ## Merge Sort
 |  |
