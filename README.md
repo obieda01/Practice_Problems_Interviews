@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0139-word-break) |
 | [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
