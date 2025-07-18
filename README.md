@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
