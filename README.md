@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
@@ -250,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
