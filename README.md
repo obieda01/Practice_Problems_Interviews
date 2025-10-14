@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0133-clone-graph) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
