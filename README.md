@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Tree
