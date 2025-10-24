@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0792-binary-search) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0347-top-k-frequent-elements) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
