@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0792-binary-search) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/2884-length-of-the-longest-valid-substring) |
+| [4035-maximum-partition-factor](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4035-maximum-partition-factor) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0792-binary-search) |
+| [4035-maximum-partition-factor](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4035-maximum-partition-factor) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
+| [4035-maximum-partition-factor](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4035-maximum-partition-factor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
+| [4035-maximum-partition-factor](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4035-maximum-partition-factor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
+| [4035-maximum-partition-factor](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4035-maximum-partition-factor) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -254,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0684-redundant-connection) |
+| [4035-maximum-partition-factor](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/4035-maximum-partition-factor) |
 ## Trie
 |  |
 | ------- |
