@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
