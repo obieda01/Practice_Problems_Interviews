@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0460-lfu-cache) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
