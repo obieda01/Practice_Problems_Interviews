@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
