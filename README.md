@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0074-search-a-2d-matrix) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
