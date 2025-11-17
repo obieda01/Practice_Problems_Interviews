@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0125-valid-palindrome) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0070-climbing-stairs) |
@@ -300,4 +302,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/obieda01/Practice_Problems_Interviews/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
